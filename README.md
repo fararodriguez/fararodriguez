@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @fararodriguez
-- 👀 I’m interested in coding, tech, teach, cats, vegan food, travel 
-- 🌱 I’m currently learning css, java, english and french
-- 📫 How to reach me @fararodriguez_ in instagram or my email is fara.rodriguez4@gmai.com
+- 👋 Hi there
 
 <!---
 fararodriguez/fararodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
